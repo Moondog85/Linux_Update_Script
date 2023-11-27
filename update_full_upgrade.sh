@@ -8,4 +8,4 @@ sleep 1
 sudo apt autoremove
 sleep 1
 [ -f /var/run/reboot-required ] && sudo reboot -f
-echo "Have a wonderful day :>"
+echo "Finished....Have a wonderful day :>"
